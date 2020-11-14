@@ -95,6 +95,8 @@ while x_arco<=xf:
  
 funciones.plot_perfil(x,y,mcx,mcy,xg,yg,marca_tiempo) 
 
+
+
 # generacion del archivo de texto de salida de los datos iniciales
 funciones.genera_archivo(peso_aparente,cohesion,fi,marca_tiempo)
 
