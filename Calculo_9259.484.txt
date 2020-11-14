@@ -1,0 +1,4 @@
+Datos del terreno 
+Peso específico aparente del terreno  15.0 kN/m3
+Cohesión del terreno  15.0 kN/m2
+Ángulo de rozamiento del terreno  20.0 º
